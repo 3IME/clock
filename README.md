@@ -13,7 +13,7 @@ A smooth analog clock built with **Rust**, compiled to **WebAssembly**, and powe
 
 ## 🚀 Live Demo
 
-> You can [view it live here](https://www.3ime.fr/pages/page2.html) or clone and open `index.html` in a browser.
+> You can [view it live here](https://www.3ime.fr/assets/site/clock/index.html)) or clone and open `index.html` in a browser.
 
 ---
 
