@@ -1,0 +1,12 @@
+[package]
+name = "thoo_clock"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+wasm-bindgen = "0.2"
+web-sys = { version = "0.3", features = ["CanvasRenderingContext2d", "HtmlCanvasElement", "Document", "Window"] }
+js-sys = "0.3"
+
+[lib]
+crate-type = ["cdylib"]

@@ -1,0 +1,22 @@
+# Compilation Rust
+/target
+/pkg
+
+# wasm-pack stuff
+*.wasm
+*.lock
+
+# Node (si tu l’utilises)
+node_modules/
+
+# Logs
+*.log
+
+# Systèmes
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
